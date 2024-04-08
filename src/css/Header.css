@@ -1,0 +1,4 @@
+.Header > h1 {
+  color: var(--main);
+  font-size: 3.2rem;
+}

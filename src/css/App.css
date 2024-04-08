@@ -1,0 +1,15 @@
+:root {
+  --main: rgb(37, 147, 255);
+  --white: #ffffff;
+  --gray220: rgb(220, 220, 220);
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  min-width: 560px;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 10px;
+  font-size: 1.6rem;
+}
