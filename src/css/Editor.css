@@ -9,6 +9,11 @@
   border-radius: 5px;
   flex: 1;
 }
+
+.Editor > input:focus {
+  outline: 1px solid var(--main);
+}
+
 .Editor > button {
   cursor: pointer;
   width: 80px;
